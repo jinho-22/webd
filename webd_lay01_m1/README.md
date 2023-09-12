@@ -13,4 +13,4 @@ Jquery를 이용하여 AJAX를 사용하여 메뉴를 작성함
     </script>
 ```
 
-<img src="/lay1_m1">
+<img src="/lay1_m1.png">
