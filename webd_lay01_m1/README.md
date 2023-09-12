@@ -2,7 +2,7 @@
 
 Jquery를 이용하여 AJAX를 사용하여 메뉴를 작성함
 ```
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script>
         $(".nav > ul > li").mouseover(function () {
             $(this).find(".submenu").stop().slideDown(200);
@@ -12,3 +12,5 @@ Jquery를 이용하여 AJAX를 사용하여 메뉴를 작성함
         });
     </script>
 ```
+
+<img src="/lay1_m1">
