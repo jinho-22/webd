@@ -169,11 +169,10 @@
                 sliderWrap.style.marginTop = -currentIndex * 300 + "px";
 
 
-
-                if (currentIndex == 3) {
+                if (currentIndex == slider.length) {
                     setTimeout(() => {
                         sliderWrap.style.transition = "0s";
-                        sliderWrap.style.marginLeft = "0";
+                        sliderWrap.style.marginTop = "0";
                         currentIndex = 0;
                     }, 700);
                 }
