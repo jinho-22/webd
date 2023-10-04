@@ -1,7 +1,7 @@
 
 ## 사용한 확장 도구
 
-<img src="../webd/image.png">
+<img src="/image.png">
 
 ```
 
