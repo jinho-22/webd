@@ -1,7 +1,7 @@
 
 ## 구현된 화면
 
-![GIFMaker_me (1)](https://github.com/jinho-22/webd/assets/129517591/ae55a346-a06d-43f5-bc03-c1e532229966)
+![GIFMaker_me (2)](https://github.com/jinho-22/webd/assets/129517591/300e98d8-a02a-43cc-b42f-a9a19121a5a4)
 
 
 ```
